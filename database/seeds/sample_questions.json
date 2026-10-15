@@ -1,0 +1,134 @@
+[
+ {
+  "question": "What should you do if you receive a suspicious link from an unknown person?",
+  "options": [
+   "Click it immediately",
+   "Forward it to your friends",
+   "Ignore it and report it",
+   "Reply with your password"
+  ],
+  "correct": 2,
+  "explanation": "Suspicious links can lead to fake websites or harmful software. Do not click them. Ignore and report them."
+ },
+ {
+  "question": "Which of these is the strongest password?",
+  "options": [
+   "password123",
+   "Your name and birth year",
+   "A long mix of words, numbers and symbols that only you know",
+   "12345678"
+  ],
+  "correct": 2,
+  "explanation": "Long passwords that mix words, numbers and symbols are hard to guess. Never use names, birthdays or simple numbers."
+ },
+ {
+  "question": "Someone calls and says they are from your bank and asks for the OTP sent to your phone. What should you do?",
+  "options": [
+   "Give it so they can help you",
+   "Never share it and end the call",
+   "Share only half of the code",
+   "Send it by text message"
+  ],
+  "correct": 1,
+  "explanation": "An OTP is private, like a key to your account. Real bank staff will never ask you for it."
+ },
+ {
+  "question": "Which is the safest way to use free public Wi-Fi?",
+  "options": [
+   "Log in to your bank account quickly",
+   "Avoid banking and sensitive logins on public Wi-Fi",
+   "Share the password with everyone",
+   "Turn off your phone lock"
+  ],
+  "correct": 1,
+  "explanation": "Other people on public Wi-Fi may be able to spy on your activity. Save banking and private logins for a trusted network."
+ },
+ {
+  "question": "What is a good privacy habit on social media?",
+  "options": [
+   "Post your home address publicly",
+   "Accept every friend request",
+   "Set your account to private and accept only people you know",
+   "Share your location live while you travel alone"
+  ],
+  "correct": 2,
+  "explanation": "Private accounts help you control who can see your photos and details. Strangers can misuse personal information."
+ },
+ {
+  "question": "Why should you install software updates on your phone?",
+  "options": [
+   "They fix security problems and protect you",
+   "They make your phone slower on purpose",
+   "They are only for games",
+   "They delete your apps"
+  ],
+  "correct": 0,
+  "explanation": "Updates close security gaps that criminals can use. Installing them keeps your phone and accounts safer."
+ },
+ {
+  "question": "What is two-factor authentication (2FA)?",
+  "options": [
+   "Using the same password twice",
+   "An extra step, like a code, to prove it is really you",
+   "A way to share your account with a friend",
+   "A tool that deletes old messages"
+  ],
+  "correct": 1,
+  "explanation": "2FA adds a second check. Even if someone learns your password, they still cannot get in without the extra code."
+ },
+ {
+  "question": "You get a message: “You won a prize! Pay a small fee to receive it.” What should you do?",
+  "options": [
+   "Pay the fee quickly",
+   "Send your bank details",
+   "Do not pay. Real prizes do not ask for money first",
+   "Forward it to everyone you know"
+  ],
+  "correct": 2,
+  "explanation": "Asking for a fee before giving a prize is a common scam. Do not pay and do not share your details."
+ },
+ {
+  "question": "Which of these should you NEVER share with anyone online?",
+  "options": [
+   "Your favourite music",
+   "Your ATM PIN and passwords",
+   "The weather today",
+   "A funny joke"
+  ],
+  "correct": 1,
+  "explanation": "PINs and passwords protect your money and accounts. Keep them to yourself, even from people you trust."
+ },
+ {
+  "question": "An email that looks like it is from your bank asks you to click a link and enter your details. It has spelling mistakes. What should you do?",
+  "options": [
+   "Click the link and log in quickly",
+   "Reply with your details",
+   "Do not click. Contact the bank using its official number or app",
+   "Forward it to a friend"
+  ],
+  "correct": 2,
+  "explanation": "This is phishing. Fake messages copy real companies to steal your details. Always use the official app or number."
+ },
+ {
+  "question": "Why is using the same password on every account risky?",
+  "options": [
+   "It is easy to remember, so it is always safe",
+   "If one site is hacked, criminals can open your other accounts",
+   "It makes websites load faster",
+   "There is no risk at all"
+  ],
+  "correct": 1,
+  "explanation": "Criminals try stolen passwords on many websites. Use a different password for each important account."
+ },
+ {
+  "question": "A friend’s social media account suddenly asks you to send money urgently. What should you do?",
+  "options": [
+   "Send the money at once",
+   "Call your friend on a number you already know to check first",
+   "Send half the money",
+   "Give them your PIN so they can help"
+  ],
+  "correct": 1,
+  "explanation": "Hackers take over accounts and pretend to be friends. Confirm by calling the real person before sending anything."
+ }
+]
