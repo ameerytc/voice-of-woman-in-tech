@@ -1,5 +1,0 @@
-<div class="page-title"><h1>Search</h1></div>
-<?php if (mb_strlen($q) < 2): ?><div class="card empty">Type at least two characters in the search box above.</div><?php else: ?>
-<section class="card"><h2 style="margin-top:0">Participants</h2><?php if (!$people): ?><p class="empty">No participants match “<?= e($q) ?>”.</p><?php endif; ?><ul class="plain"><?php foreach ($people as $p): ?><li><span class="person"><?= avatar_html($p, 36) ?><span><a href="<?= e(url('/admin/participants/' . $p['id'])) ?>"><?= e($p['full_name']) ?></a><small><?= e($p['email']) ?></small></span> <?= badge($p['status']) ?></span></li><?php endforeach; ?></ul></section>
-<section class="card"><h2 style="margin-top:0">Quizzes</h2><?php if (!$quizzes): ?><p class="empty">No quizzes match “<?= e($q) ?>”.</p><?php endif; ?><ul class="plain"><?php foreach ($quizzes as $z): ?><li><a href="<?= e(url('/admin/quizzes/' . $z['id'] . '/questions')) ?>"><?= e($z['title']) ?></a> <small><?= e($z['category']) ?></small> <?= badge($z['status']) ?></li><?php endforeach; ?></ul></section>
-<?php endif; ?>
